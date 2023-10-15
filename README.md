@@ -1,6 +1,13 @@
 # blocwithsearch
 
-A new Flutter project.
+Using blocprovider to find users in certain api
+
+search page
+
+page with their info
+
+![image](https://github.com/RakhmanSabirov/BlocProvider_search_users/assets/140696861/6093ec77-fda2-4f4e-93c4-ec4f2235943e)
+
 
 ## Getting Started
 
